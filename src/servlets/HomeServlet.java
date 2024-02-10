@@ -30,7 +30,7 @@ public class HomeServlet extends HttpServlet {
             String deadlineDate = req.getParameter("deadlineDate");
             Tasks task = new Tasks(name, description, deadlineDate);
             DBManager.addTask(task);
-            resp.sendRedirect("/home");
+            resp.sendRedirect("/home").f;
 
     }
 }

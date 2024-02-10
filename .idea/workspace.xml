@@ -9,34 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbe9f5b8-2d3b-4458-bf74-aa139e0f65ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JavaEE_Task1_2_Web_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jakarta_servlet_api_6_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaEE-Task1.2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/db/DBManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Tasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlets/DeleteServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlets/DetailsServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlets/EditTaskServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlets/HomeServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/servlets/UpdateTaskServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/details.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/editTask.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/head.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/header.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/modalIncludeTask.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/respTable.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/scripts.jsp" afterDir="false" />
+    <list default="true" id="cbe9f5b8-2d3b-4458-bf74-aa139e0f65ad" name="Changes" comment="JavaEE-Sprint1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,28 +49,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Tomcat Server.Tomcat 10.1.18-1.executor": "Run",
-    "Tomcat Server.Tomcat 10.1.18.executor": "Debug",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/java/JavaEE-Task1.2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.179676",
-    "project.structure.side.proportion": "0.2673611",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Tomcat Server.Tomcat 10.1.18-1.executor&quot;: &quot;Run&quot;,
+    &quot;Tomcat Server.Tomcat 10.1.18.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/java/JavaEE-Task1.2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.179676&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2673611&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\java\JavaEE-Task1.2\web" />
@@ -212,12 +186,37 @@
       <workItem from="1707071963377" duration="1740000" />
       <workItem from="1707156735303" duration="6023000" />
       <workItem from="1707162891389" duration="1314000" />
-      <workItem from="1707198753230" duration="9156000" />
+      <workItem from="1707198753230" duration="9508000" />
+      <workItem from="1707397407734" duration="627000" />
+      <workItem from="1707403953996" duration="64000" />
+      <workItem from="1707569937882" duration="85000" />
+      <workItem from="1707573801755" duration="999000" />
     </task>
+    <task id="LOCAL-00001" summary="JavaEE-Sprint1">
+      <option name="closed" value="true" />
+      <created>1707243770486</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707243770486</updated>
+    </task>
+    <task id="LOCAL-00002" summary="JavaEE-Sprint1">
+      <option name="closed" value="true" />
+      <created>1707243843639</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707243843639</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JavaEE-Sprint1" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaEE-Sprint1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
